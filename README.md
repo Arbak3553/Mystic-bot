@@ -158,3 +158,4 @@ DeepSeek предоставляет бесплатные кредиты для �
 Создано с использованием:
 - [python-telegram-bot](https://python-telegram-bot.org/)
 - [DeepSeek AI](https://www.deepseek.com/)
+# Railway deployment
